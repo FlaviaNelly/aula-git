@@ -1,1 +1,2 @@
-Aula de Felipe
+Aula de Felipe no Terminal do
+ Linux.
